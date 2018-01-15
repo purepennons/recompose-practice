@@ -1,0 +1,7 @@
+{
+  "todos": [
+    { "id": 1, "title": "Hello Recompose", "author": "Akiya" },
+    { "id": 2, "title": "Oh, Redux", "author": "Dan Abramov" },
+    { "id": 3, "title": "React awesome", "author": "Facebook" }
+  ]
+}
